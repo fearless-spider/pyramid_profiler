@@ -1,0 +1,7 @@
+include *.txt
+include *.md
+include setup.py
+include LICENSE
+graft pyramid_profiler/static/
+recursive-include pyramid_profiler/static *
+global-exclude *.pyc
