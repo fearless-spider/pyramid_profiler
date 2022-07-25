@@ -12,7 +12,7 @@ It gives answers to these questions:
 
 In short, if you are curious about what your endpoints are doing and what requests they are receiving, give a try to pyramid_profiler.
 
-With flask_profiler's web interface, you can monitor all your endpoints' performance and investigate endpoints and received requests by drilling down through filters.
+With pyramid_profiler's web interface, you can monitor all your endpoints' performance and investigate endpoints and received requests by drilling down through filters.
 
 ## Quick Start
 
