@@ -38,6 +38,6 @@ Review the Contributing Guidelines for details on how to:
 
 * Przemysław Pająk
 
-License
+## License
 
 BSD 3
