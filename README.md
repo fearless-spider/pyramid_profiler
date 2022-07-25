@@ -16,9 +16,9 @@ With pyramid_profiler's web interface, you can monitor all your endpoints' perfo
 
 ## Quick Start
 
-It is easy to understand pyramid-profiler going through an example. Let's dive in.
+It is easy to understand pyramid_profiler going through an example. Let's dive in.
 
-### Install pyramid-profiler by pip.
+### Install pyramid_profiler by pip.
 
 pip install pyramid_profiler
 
